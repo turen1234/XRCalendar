@@ -19,6 +19,4 @@ Rebel for Life everywhere!
 * Double click the setup.exe
 * Find some events!
 
-
-![XR Calendar Preview](https://raw.githubusercontent.com/turen1234/XRCalendar/master/preview.JPG | width=400)
-
+<img src="https://raw.githubusercontent.com/turen1234/XRCalendar/master/preview.JPG" width="800" >
