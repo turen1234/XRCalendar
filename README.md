@@ -1,4 +1,6 @@
 # XRCalendar
+
+
 Calling All Extinction Rebellion Rebels!
 Tired of searching through countless facebook pages for events? why not just have them all in one place?
 
@@ -10,3 +12,9 @@ if your computer warns you about the security concerns for downloading this XR-C
 but you can donate to me within the app itself if you feel strongly about resolving this issue!
 
 Rebel for Life everywhere!
+
+
+##To Install
+* Download and Extract XR-Calendar.zip
+* Double click the setup.exe
+* Find some events!
