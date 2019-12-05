@@ -14,7 +14,7 @@ but you can donate to me within the app itself if you feel strongly about resolv
 Rebel for Life everywhere!
 
 
-##To Install
+## To Install
 * Download and Extract XR-Calendar.zip
 * Double click the setup.exe
 * Find some events!
