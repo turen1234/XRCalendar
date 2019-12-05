@@ -18,3 +18,7 @@ Rebel for Life everywhere!
 * Download and Extract XR-Calendar.zip
 * Double click the setup.exe
 * Find some events!
+
+
+![XR Calendar Preview](https://raw.githubusercontent.com/turen1234/XRCalendar/master/preview.JPG | width=400)
+
