@@ -1,0 +1,33 @@
+X:\repos\Extinction Rebellion\Extinction Rebellion\bin\x64\Release\Extinction Rebellion.exe.config
+X:\repos\Extinction Rebellion\Extinction Rebellion\bin\x64\Release\Extinction Rebellion.exe.manifest
+X:\repos\Extinction Rebellion\Extinction Rebellion\bin\x64\Release\Extinction Rebellion.application
+X:\repos\Extinction Rebellion\Extinction Rebellion\bin\x64\Release\Extinction Rebellion.exe
+X:\repos\Extinction Rebellion\Extinction Rebellion\bin\x64\Release\Extinction Rebellion.pdb
+X:\repos\Extinction Rebellion\Extinction Rebellion\bin\x64\Release\HtmlAgilityPack.dll
+X:\repos\Extinction Rebellion\Extinction Rebellion\bin\x64\Release\Newtonsoft.Json.dll
+X:\repos\Extinction Rebellion\Extinction Rebellion\bin\x64\Release\HtmlAgilityPack.pdb
+X:\repos\Extinction Rebellion\Extinction Rebellion\bin\x64\Release\HtmlAgilityPack.xml
+X:\repos\Extinction Rebellion\Extinction Rebellion\bin\x64\Release\Newtonsoft.Json.xml
+X:\repos\Extinction Rebellion\Extinction Rebellion\obj\x64\Release\AlertWindow.g.cs
+X:\repos\Extinction Rebellion\Extinction Rebellion\obj\x64\Release\DateTile.g.cs
+X:\repos\Extinction Rebellion\Extinction Rebellion\obj\x64\Release\DonationForm.g.cs
+X:\repos\Extinction Rebellion\Extinction Rebellion\obj\x64\Release\MainWindow.g.cs
+X:\repos\Extinction Rebellion\Extinction Rebellion\obj\x64\Release\App.g.cs
+X:\repos\Extinction Rebellion\Extinction Rebellion\obj\x64\Release\Extinction Rebellion_MarkupCompile.cache
+X:\repos\Extinction Rebellion\Extinction Rebellion\obj\x64\Release\Extinction Rebellion_MarkupCompile.lref
+X:\repos\Extinction Rebellion\Extinction Rebellion\obj\x64\Release\AlertWindow.baml
+X:\repos\Extinction Rebellion\Extinction Rebellion\obj\x64\Release\DateTile.baml
+X:\repos\Extinction Rebellion\Extinction Rebellion\obj\x64\Release\DonationForm.baml
+X:\repos\Extinction Rebellion\Extinction Rebellion\obj\x64\Release\MainWindow.baml
+X:\repos\Extinction Rebellion\Extinction Rebellion\obj\x64\Release\Extinction Rebellion.g.resources
+X:\repos\Extinction Rebellion\Extinction Rebellion\obj\x64\Release\Extinction_Rebellion.Properties.Resources.resources
+X:\repos\Extinction Rebellion\Extinction Rebellion\obj\x64\Release\Extinction Rebellion.csproj.GenerateResource.cache
+X:\repos\Extinction Rebellion\Extinction Rebellion\obj\x64\Release\Extinction Rebellion.csproj.CoreCompileInputs.cache
+X:\repos\Extinction Rebellion\Extinction Rebellion\obj\x64\Release\Extinction Rebellion.exe.manifest
+X:\repos\Extinction Rebellion\Extinction Rebellion\obj\x64\Release\Extinction Rebellion.application
+X:\repos\Extinction Rebellion\Extinction Rebellion\obj\x64\Release\Extinction Rebellion.csproj.CopyComplete
+X:\repos\Extinction Rebellion\Extinction Rebellion\obj\x64\Release\Extinction Rebellion.exe
+X:\repos\Extinction Rebellion\Extinction Rebellion\obj\x64\Release\Extinction Rebellion.pdb
+X:\repos\Extinction Rebellion\Extinction Rebellion\obj\x64\Release\DateInspector.g.cs
+X:\repos\Extinction Rebellion\Extinction Rebellion\obj\x64\Release\DateInspector.baml
+X:\repos\Extinction Rebellion\Extinction Rebellion\obj\x64\Release\Extinction Rebellion.csprojAssemblyReference.cache

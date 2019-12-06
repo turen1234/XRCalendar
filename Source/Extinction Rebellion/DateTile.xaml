@@ -1,0 +1,43 @@
+﻿<UserControl x:Class="Extinction_Rebellion.DateTile"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Extinction_Rebellion"
+             mc:Ignorable="d" 
+             d:DesignHeight="152.048" d:DesignWidth="238.135">
+	<Grid Margin="0,0,0,0">
+		<Border BorderThickness="1" BorderBrush="LightGray" ></Border>
+
+		<ListView BorderBrush="LightGray" Name="DayEvents"  Margin="0,30,0,0" >
+			
+			<ListView.View>
+				
+				<GridView>
+					
+					<GridViewColumn x:Name="Title"/>
+				</GridView>
+			</ListView.View>
+		</ListView>
+		<TextBlock x:Name="DateTitle" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top" Height="30" FontSize="16" FontFamily="Ink Free" FontWeight="Bold" MouseDown="DateTitle_MouseDown">
+			<TextBlock.Style>
+				<Style TargetType="TextBlock">
+					<Setter Property="Foreground" Value="Black"/>
+					<Setter Property="Background" Value="Transparent"/>
+
+					<Style.Triggers>
+						<Trigger Property="IsMouseOver" Value="True">
+							<Setter Property="Background" Value="LightBlue"/>
+
+							<!--<Setter Property="BorderThickness" Value="2"/>
+							<Setter Property="BorderBrush" Value="Aqua"/>-->
+						</Trigger>
+						
+					</Style.Triggers>
+				</Style>
+			</TextBlock.Style>	
+
+		</TextBlock>
+
+	</Grid>
+</UserControl>

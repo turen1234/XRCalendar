@@ -1,0 +1,19 @@
+﻿<Window x:Class="Extinction_Rebellion.AlertWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Extinction_Rebellion"
+        mc:Ignorable="d"
+        Title="Donationware" Height="156.458" Width="397.392" Loaded="Window_Loaded" WindowStyle="None" ResizeMode="NoResize" Topmost="True" WindowStartupLocation="CenterScreen" Background="#FFE2E6FF">
+	<Grid>
+		<Grid.ColumnDefinitions>
+			<ColumnDefinition Width="180*"/>
+			<ColumnDefinition Width="211*"/>
+		</Grid.ColumnDefinitions>
+		<Button Name="FinishButton" IsEnabled="false" Content="OK" HorizontalAlignment="Right" Margin="0,0,9.667,10.333" VerticalAlignment="Bottom" Width="75" Grid.Column="1" Click="FinishButton_Click"/>
+		<TextBlock HorizontalAlignment="Left" Margin="10,41,0,30.667" TextWrapping="Wrap" VerticalAlignment="Center" Height="85" Width="371" Grid.ColumnSpan="2"><Run Text="Ensure that you "/><Run Text="consult the "/><Run Text="local "/><Run Text="facebook group for"/><Run Text=" "/><Run Text="updates to"/><Run Text=" all"/><Run Text=" events"/><Run Text=", double click on an event to view it on facebook."/><LineBreak/><Run/><LineBreak/><Run Text="This is "/><Run Text="D"/><Run Text="onationware, please support the developer to remove this mes"/><Run Text="s"/><Run Text="age, otherwise enjoy the rebellion"/><Run Text="."/><LineBreak/><Run/><LineBreak/></TextBlock>
+		<Label Content="Donationware" HorizontalAlignment="Left" Margin="5,10,0,0" VerticalAlignment="Top" Grid.ColumnSpan="2" Width="371" FontWeight="Bold"/>
+
+	</Grid>
+</Window>

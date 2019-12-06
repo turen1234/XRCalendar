@@ -1,0 +1,64 @@
+X:\repos\Extinction Rebellion\Extinction Rebellion\bin\x64\Debug\Extinction Rebellion.exe.config
+X:\repos\Extinction Rebellion\Extinction Rebellion\bin\x64\Debug\Extinction Rebellion.exe.manifest
+X:\repos\Extinction Rebellion\Extinction Rebellion\bin\x64\Debug\Extinction Rebellion.application
+X:\repos\Extinction Rebellion\Extinction Rebellion\bin\x64\Debug\Extinction Rebellion.exe
+X:\repos\Extinction Rebellion\Extinction Rebellion\bin\x64\Debug\Extinction Rebellion.pdb
+X:\repos\Extinction Rebellion\Extinction Rebellion\bin\x64\Debug\HtmlAgilityPack.dll
+X:\repos\Extinction Rebellion\Extinction Rebellion\bin\x64\Debug\Newtonsoft.Json.dll
+X:\repos\Extinction Rebellion\Extinction Rebellion\bin\x64\Debug\HtmlAgilityPack.pdb
+X:\repos\Extinction Rebellion\Extinction Rebellion\bin\x64\Debug\HtmlAgilityPack.xml
+X:\repos\Extinction Rebellion\Extinction Rebellion\bin\x64\Debug\Newtonsoft.Json.xml
+X:\repos\Extinction Rebellion\Extinction Rebellion\obj\x64\Debug\Extinction Rebellion.csprojAssemblyReference.cache
+X:\repos\Extinction Rebellion\Extinction Rebellion\obj\x64\Debug\AlertWindow.g.cs
+X:\repos\Extinction Rebellion\Extinction Rebellion\obj\x64\Debug\DateTile.g.cs
+X:\repos\Extinction Rebellion\Extinction Rebellion\obj\x64\Debug\DonationForm.g.cs
+X:\repos\Extinction Rebellion\Extinction Rebellion\obj\x64\Debug\MainWindow.g.cs
+X:\repos\Extinction Rebellion\Extinction Rebellion\obj\x64\Debug\App.g.cs
+X:\repos\Extinction Rebellion\Extinction Rebellion\obj\x64\Debug\Extinction Rebellion_MarkupCompile.cache
+X:\repos\Extinction Rebellion\Extinction Rebellion\obj\x64\Debug\Extinction Rebellion_MarkupCompile.lref
+X:\repos\Extinction Rebellion\Extinction Rebellion\obj\x64\Debug\AlertWindow.baml
+X:\repos\Extinction Rebellion\Extinction Rebellion\obj\x64\Debug\DateTile.baml
+X:\repos\Extinction Rebellion\Extinction Rebellion\obj\x64\Debug\DonationForm.baml
+X:\repos\Extinction Rebellion\Extinction Rebellion\obj\x64\Debug\MainWindow.baml
+X:\repos\Extinction Rebellion\Extinction Rebellion\obj\x64\Debug\Extinction Rebellion.g.resources
+X:\repos\Extinction Rebellion\Extinction Rebellion\obj\x64\Debug\Extinction_Rebellion.Properties.Resources.resources
+X:\repos\Extinction Rebellion\Extinction Rebellion\obj\x64\Debug\Extinction Rebellion.csproj.GenerateResource.cache
+X:\repos\Extinction Rebellion\Extinction Rebellion\obj\x64\Debug\Extinction Rebellion.csproj.CoreCompileInputs.cache
+X:\repos\Extinction Rebellion\Extinction Rebellion\obj\x64\Debug\Extinction Rebellion.exe.manifest
+X:\repos\Extinction Rebellion\Extinction Rebellion\obj\x64\Debug\Extinction Rebellion.application
+X:\repos\Extinction Rebellion\Extinction Rebellion\obj\x64\Debug\Extinction Rebellion.csproj.CopyComplete
+X:\repos\Extinction Rebellion\Extinction Rebellion\obj\x64\Debug\Extinction Rebellion.exe
+X:\repos\Extinction Rebellion\Extinction Rebellion\obj\x64\Debug\Extinction Rebellion.pdb
+X:\repos\Extinction Rebellion\Extinction Rebellion\obj\x64\Debug\DateInspector.g.cs
+X:\repos\Extinction Rebellion\Extinction Rebellion\obj\x64\Debug\DateInspector.baml
+C:\Users\Urens\Documents\XR\XRCalendar\Source\Extinction Rebellion\obj\x64\Debug\Extinction Rebellion.csprojAssemblyReference.cache
+C:\Users\Urens\Documents\XR\XRCalendar\Source\Extinction Rebellion\obj\x64\Debug\AlertWindow.g.cs
+C:\Users\Urens\Documents\XR\XRCalendar\Source\Extinction Rebellion\obj\x64\Debug\DateInspector.g.cs
+C:\Users\Urens\Documents\XR\XRCalendar\Source\Extinction Rebellion\obj\x64\Debug\DateTile.g.cs
+C:\Users\Urens\Documents\XR\XRCalendar\Source\Extinction Rebellion\obj\x64\Debug\DonationForm.g.cs
+C:\Users\Urens\Documents\XR\XRCalendar\Source\Extinction Rebellion\obj\x64\Debug\MainWindow.g.cs
+C:\Users\Urens\Documents\XR\XRCalendar\Source\Extinction Rebellion\obj\x64\Debug\App.g.cs
+C:\Users\Urens\Documents\XR\XRCalendar\Source\Extinction Rebellion\obj\x64\Debug\Extinction Rebellion_MarkupCompile.cache
+C:\Users\Urens\Documents\XR\XRCalendar\Source\Extinction Rebellion\obj\x64\Debug\Extinction Rebellion_MarkupCompile.lref
+C:\Users\Urens\Documents\XR\XRCalendar\Source\Extinction Rebellion\obj\x64\Debug\Extinction Rebellion.exe
+C:\Users\Urens\Documents\XR\XRCalendar\Source\Extinction Rebellion\obj\x64\Debug\Extinction Rebellion.pdb
+C:\Users\Urens\Documents\XR\XRCalendar\Source\Extinction Rebellion\bin\x64\Debug\Extinction Rebellion.exe.config
+C:\Users\Urens\Documents\XR\XRCalendar\Source\Extinction Rebellion\bin\x64\Debug\Extinction Rebellion.exe.manifest
+C:\Users\Urens\Documents\XR\XRCalendar\Source\Extinction Rebellion\bin\x64\Debug\Extinction Rebellion.application
+C:\Users\Urens\Documents\XR\XRCalendar\Source\Extinction Rebellion\bin\x64\Debug\Extinction Rebellion.exe
+C:\Users\Urens\Documents\XR\XRCalendar\Source\Extinction Rebellion\bin\x64\Debug\Extinction Rebellion.pdb
+C:\Users\Urens\Documents\XR\XRCalendar\Source\Extinction Rebellion\bin\x64\Debug\HtmlAgilityPack.pdb
+C:\Users\Urens\Documents\XR\XRCalendar\Source\Extinction Rebellion\bin\x64\Debug\HtmlAgilityPack.xml
+C:\Users\Urens\Documents\XR\XRCalendar\Source\Extinction Rebellion\bin\x64\Debug\Newtonsoft.Json.xml
+C:\Users\Urens\Documents\XR\XRCalendar\Source\Extinction Rebellion\obj\x64\Debug\AlertWindow.baml
+C:\Users\Urens\Documents\XR\XRCalendar\Source\Extinction Rebellion\obj\x64\Debug\DateInspector.baml
+C:\Users\Urens\Documents\XR\XRCalendar\Source\Extinction Rebellion\obj\x64\Debug\DateTile.baml
+C:\Users\Urens\Documents\XR\XRCalendar\Source\Extinction Rebellion\obj\x64\Debug\DonationForm.baml
+C:\Users\Urens\Documents\XR\XRCalendar\Source\Extinction Rebellion\obj\x64\Debug\MainWindow.baml
+C:\Users\Urens\Documents\XR\XRCalendar\Source\Extinction Rebellion\obj\x64\Debug\Extinction Rebellion.g.resources
+C:\Users\Urens\Documents\XR\XRCalendar\Source\Extinction Rebellion\obj\x64\Debug\Extinction_Rebellion.Properties.Resources.resources
+C:\Users\Urens\Documents\XR\XRCalendar\Source\Extinction Rebellion\obj\x64\Debug\Extinction Rebellion.csproj.GenerateResource.cache
+C:\Users\Urens\Documents\XR\XRCalendar\Source\Extinction Rebellion\obj\x64\Debug\Extinction Rebellion.csproj.CoreCompileInputs.cache
+C:\Users\Urens\Documents\XR\XRCalendar\Source\Extinction Rebellion\obj\x64\Debug\Extinction Rebellion.exe.manifest
+C:\Users\Urens\Documents\XR\XRCalendar\Source\Extinction Rebellion\obj\x64\Debug\Extinction Rebellion.application
+C:\Users\Urens\Documents\XR\XRCalendar\Source\Extinction Rebellion\obj\x64\Debug\Extinction Rebellion.csproj.CopyComplete
