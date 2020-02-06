@@ -47,9 +47,6 @@ C:\Users\Urens\Documents\XR\XRCalendar\Source\Extinction Rebellion\bin\x64\Debug
 C:\Users\Urens\Documents\XR\XRCalendar\Source\Extinction Rebellion\bin\x64\Debug\Extinction Rebellion.application
 C:\Users\Urens\Documents\XR\XRCalendar\Source\Extinction Rebellion\bin\x64\Debug\Extinction Rebellion.exe
 C:\Users\Urens\Documents\XR\XRCalendar\Source\Extinction Rebellion\bin\x64\Debug\Extinction Rebellion.pdb
-C:\Users\Urens\Documents\XR\XRCalendar\Source\Extinction Rebellion\bin\x64\Debug\HtmlAgilityPack.pdb
-C:\Users\Urens\Documents\XR\XRCalendar\Source\Extinction Rebellion\bin\x64\Debug\HtmlAgilityPack.xml
-C:\Users\Urens\Documents\XR\XRCalendar\Source\Extinction Rebellion\bin\x64\Debug\Newtonsoft.Json.xml
 C:\Users\Urens\Documents\XR\XRCalendar\Source\Extinction Rebellion\obj\x64\Debug\AlertWindow.baml
 C:\Users\Urens\Documents\XR\XRCalendar\Source\Extinction Rebellion\obj\x64\Debug\DateInspector.baml
 C:\Users\Urens\Documents\XR\XRCalendar\Source\Extinction Rebellion\obj\x64\Debug\DateTile.baml
