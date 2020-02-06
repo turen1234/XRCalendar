@@ -4,7 +4,7 @@
   <description asmv2:iconFile="xr.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <application />
   <entryPoint>
-    <assemblyIdentity name="Extinction Rebellion" version="1.0.7341.31770" language="neutral" processorArchitecture="amd64" />
+    <assemblyIdentity name="Extinction Rebellion" version="1.0.7341.32485" language="neutral" processorArchitecture="amd64" />
     <commandLine file="Extinction Rebellion.exe" parameters="" />
   </entryPoint>
   <trustInfo>
@@ -43,14 +43,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Extinction Rebellion.exe" size="179784">
-      <assemblyIdentity name="Extinction Rebellion" version="1.0.7341.31770" language="neutral" processorArchitecture="amd64" />
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Extinction Rebellion.exe" size="181320">
+      <assemblyIdentity name="Extinction Rebellion" version="1.0.7341.32485" language="neutral" processorArchitecture="amd64" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>xbZ1ctLtAJ4AaDIpV9asEFUfYVLPoHoQkUVd0KUdwu8=</dsig:DigestValue>
+        <dsig:DigestValue>esHnO2Ioixdea3+hqYM3X9wWfNdQY6G0Vl57JEeBWHk=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
